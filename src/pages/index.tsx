@@ -5,8 +5,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Console UI - NIHR</title>
-        <meta name="description" content="Console UI - NIHR" />
+        <title>Console UI - NIHR National Institute for Health and Care Research</title>
+        <meta
+          name="description"
+          content="Console UI - NIHR National Institute for Health and Care Research"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
